@@ -6,4 +6,4 @@ The notebook contains four sections:
 3. Functions for preparing the Fock basis and the numerical Hamiltonian for exact diagonalization, and calculating the spectra using ED.
 4. Plotting the results using matplotlib
 
-You are free to reference or otherwise use parts of the code for your own work as long as credit is provided. Be aware that the code for building the Hamiltonian is written fully in Python and thus very slow. 
+You are free to reference or otherwise use parts of the code for your own work as long as credit is provided. Be aware that the code for building the Hamiltonian is written fully in Python and thus very slow for larger systems. 
